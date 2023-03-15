@@ -1,6 +1,6 @@
 <div class="footer">
     <div class="copyright">
-        <p>Copyright &copy; Designed & Developed by Test <?php echo date("Y"); ?></p>
+        <p>Copyright © Designed &amp; Developed by <a href="https://themeforest.net/user/quixlab">Quixlab</a> 2018</p>
     </div>
 </div>
 
